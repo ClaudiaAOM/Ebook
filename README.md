@@ -1,4 +1,4 @@
-# Título do Projeto Extremamente Aesthetic ;)
+# E-book para professores de inglês iniciando carreira
 
 ## 📒 Descrição
 Criei um breve e-book para professores de inglês que estão iniciando em suas carreiras
